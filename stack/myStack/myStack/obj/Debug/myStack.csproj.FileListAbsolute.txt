@@ -1,0 +1,5 @@
+C:\Users\julia\OneDrive - Kt. SG BLD\4. Semester\v320\stack\myStack\myStack\obj\Debug\myStack.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\4. Semester\v320\stack\myStack\myStack\obj\Debug\myStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\4. Semester\v320\stack\myStack\myStack\obj\Debug\myStack.Properties.Resources.resources
+C:\Users\julia\OneDrive - Kt. SG BLD\4. Semester\v320\stack\myStack\myStack\obj\Debug\myStack.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\4. Semester\v320\stack\myStack\myStack\obj\Debug\myStack.csproj.CoreCompileInputs.cache
