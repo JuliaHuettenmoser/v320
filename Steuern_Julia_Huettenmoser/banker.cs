@@ -4,7 +4,9 @@ public class Banker : Person
 {
 	public int Steuer()
 	{
-		return steuer + 1000;
+		steuer = BerechneSteuer(einkommen);
+
+        return steuer + 1000;
 
 	}
 }

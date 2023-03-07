@@ -2,5 +2,5 @@
 
 interface ISteuerzahler
 {
-	int BerechneSteuer();
+	int BerechneSteuer(int einkommmen);
 }

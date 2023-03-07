@@ -1,8 +1,9 @@
 ﻿using System;
 
-public class Koenigin
+public class Koenigin : Person
 {
-	public Class1()
+	public int Steuer()
 	{
+		return steuer = 0;
 	}
 }

@@ -2,9 +2,10 @@
 
 public class Firma
 {
-	int gewinn;
-	public Class1()
+	double gewinn;
+	public double Steuer(double gewinn)
 	{
-
+		double steuer = gewinn * 0.07;
+		return steuer;
 	}
 }
