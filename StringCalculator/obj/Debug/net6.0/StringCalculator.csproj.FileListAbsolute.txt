@@ -1,0 +1,5 @@
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator\obj\Debug\net6.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfo.cs
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.CoreCompileInputs.cache
