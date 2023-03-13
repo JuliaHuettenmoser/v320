@@ -1,0 +1,6 @@
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\obj\Debug\net6.0\StringCalculator.Test.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\obj\Debug\net6.0\StringCalculator.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\obj\Debug\net6.0\StringCalculator.Test.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\obj\Debug\net6.0\StringCalculator.Test.AssemblyInfo.cs
+C:\Users\julia\OneDrive - Kt. SG BLD\3. Semester\informatik\m320\StringCalculator.Test\obj\Debug\net6.0\StringCalculator.Test.csproj.CoreCompileInputs.cache
